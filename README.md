@@ -1,9 +1,8 @@
 
 # Converting Depth Image to Sound
 
-This end of studies' project is about converting a depht image into sound representation.
-We try to improve the living conditions of blind people, especially when walking, by helping them to identify the obstacles they encounter in order to better avoid them. For this we will use a depth image, it is a representation of depth translated using the shade of gray. Indeed, the whiter the pixels, and therefore the gray level is 255, the closer the object they represent to the camera and vice versa.
-
+This graduation project explores the transformation of depth images into auditory cues to assist blind and visually impaired individuals with obstacle detection and avoidance during walking.
+Depth images provide grayscale encodings of spatial information: the brighter a pixel (color value approaching 255 representing the color white), the closer the object is to the camera. Inversely, darker pixels indicate greater distance.
 
 ## To begin
 
@@ -16,6 +15,7 @@ It will be needed to have :
  - The computer's mouse
  - The cane ( support )
 For our case we have printed with a 3D printer a support dedicated for our use (Image below, the pink color is the support and the black color is the camera).
+
 ![Image of the support](Capture_d'écran_canne.png)
 
 
@@ -39,6 +39,7 @@ And others needed libraries.
 
 
 ## Usage
+
 1. Installation of materials 
 
     To use the cane, it is needed to insert the camera the space dedicated to it in the cane. It would be also necessary to put the mouse in the cane such as the left click is under the boutton printed for it.
@@ -53,6 +54,7 @@ And others needed libraries.
 
  
 ## Video Explenation
+
 [Watch the full demo video](https://youtu.be/0kMOdFrgxwQ)
 
 
