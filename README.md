@@ -15,6 +15,8 @@ It will be needed to have :
  - The Camera RGB-D
  - The computer's mouse
  - The cane ( support )
+For our case we have printed with a 3D printer a support dedicated for our use (Image below, the pink color is the support and the black color is the camera).
+![Image of the support](Capture_d'écran_canne.png)
 
 
 ## Installation for the code 
@@ -49,7 +51,9 @@ And others needed libraries.
     A .wav file should be create in the folder in where the program is executed.  
     A .png is also crate in the same folder: it is the camera picture after the mask is applied.
 
-    
+ 
+## Video Explenation
+[Watch the full demo video](https://youtu.be/0kMOdFrgxwQ)
 
 
 
